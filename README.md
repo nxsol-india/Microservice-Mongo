@@ -1,7 +1,7 @@
 Technology :
 ------------
 
-Spring Boot Microservice + Spring Data JPA + MongoDB
+Spring Boot Microservice + Spring Data mongodb + MongoDB
 
 Run Application Following Orders With spring boot
 
